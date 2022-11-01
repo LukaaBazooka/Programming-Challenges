@@ -13,3 +13,18 @@ C:\Users\529052\source\repos\3.2\3.2\obj\Debug\net6.0\refint\3.2.dll
 C:\Users\529052\source\repos\3.2\3.2\obj\Debug\net6.0\3.2.pdb
 C:\Users\529052\source\repos\3.2\3.2\obj\Debug\net6.0\3.2.genruntimeconfig.cache
 C:\Users\529052\source\repos\3.2\3.2\obj\Debug\net6.0\ref\3.2.dll
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\bin\Debug\net6.0\3.2.exe
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\bin\Debug\net6.0\3.2.deps.json
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\bin\Debug\net6.0\3.2.runtimeconfig.json
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\bin\Debug\net6.0\3.2.dll
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\bin\Debug\net6.0\3.2.pdb
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\obj\Debug\net6.0\3.2.csproj.AssemblyReference.cache
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\obj\Debug\net6.0\3.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\obj\Debug\net6.0\3.2.AssemblyInfoInputs.cache
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\obj\Debug\net6.0\3.2.AssemblyInfo.cs
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\obj\Debug\net6.0\3.2.csproj.CoreCompileInputs.cache
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\obj\Debug\net6.0\3.2.dll
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\obj\Debug\net6.0\refint\3.2.dll
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\obj\Debug\net6.0\3.2.pdb
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\obj\Debug\net6.0\3.2.genruntimeconfig.cache
+D:\Lukas stuff\Programming-Challenges\3.2\3.2\obj\Debug\net6.0\ref\3.2.dll

@@ -9,6 +9,7 @@ public class game
         character Player = new character();
 
         List<string> list = new List<string>();
+
         list.Add("John");
         list.Add("Enbiras");
         list.Add("Ardor");
